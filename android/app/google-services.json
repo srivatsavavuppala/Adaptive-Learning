@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1025375164344",
+    "firebase_url": "https://adaptive-learning-74382.firebaseio.com",
+    "project_id": "adaptive-learning-74382",
+    "storage_bucket": "adaptive-learning-74382.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025375164344:android:69e19c022744d3564aa14d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025375164344-c18ictvgsuavt5ffs7mhmfnpdi1q8ijg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2eAON9CR1_rs4_c5xf5bJTfj3aENFqgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025375164344-c18ictvgsuavt5ffs7mhmfnpdi1q8ijg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
